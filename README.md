@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 
 -->
 
-![image](https://github-readme-stats.vercel.app/api?username=levinhtxbt&show_icons=true&show_icons=true&theme=gradient&count_private=true&cache_seconds=1800&line_height=24)
+![image](https://github-readme-stats.vercel.app/api?username=levinhtxbt&show_icons=true&show_icons=true&theme=onedark&count_private=true&cache_seconds=1800&line_height=24)
