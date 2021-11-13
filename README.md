@@ -15,9 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+
+📫 How to reach me:
+
+
 <!-- 
 ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=levinhtxbt)
 
 -->
 
-![image](https://github-readme-stats.vercel.app/api?username=levinhtxbt&show_icons=true&show_icons=true&theme=onedark&count_private=true&cache_seconds=1800&line_height=24)
+![image](https://github-readme-stats.vercel.app/api?username=levinhtxbt&show_icons=true&show_icons=true&theme=gradient&count_private=true&cache_seconds=1800&line_height=24)
