@@ -36,6 +36,6 @@
 
 ## 📫 How to reach me: 
 [LinkedIn](https://www.linkedin.com/in/levinhtbt/), [Facebook](https://www.facebook.com/levinhbt/), [Blog](https://levinh.net/)
-## 📊 Statistics: 
+## 📊 GitHub Stats: 
 ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=levinhtxbt&theme=onedark)
 ![image](https://github-readme-stats.vercel.app/api?username=levinhtxbt&show_icons=true&show_icons=true&theme=onedark&count_private=true&cache_seconds=1800&line_height=24)
